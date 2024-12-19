@@ -1,9 +1,11 @@
-# Paws-bot
+# PAWS bot
 
-Join our Telegram https://t.me/BlackScorpionMrx
-GitHub https://github.com/Blackscorpionmrx
+
+[![Join our Telegram](https://t.me/BlackScorpionMrx)
+[![GitHub](https://github.com/Blackscorpionmrx)
 
 ## Registrations [https://t.me/PAWSOG_bot/](https://t.me/PAWSOG_bot/PAWS?startapp=NoqQgWK0)
+
 
 ## Features
 
@@ -47,6 +49,7 @@ Create a config.json file in the root directory with the following structure:
     "cycle_delay": [14400, 28800]
 }
    ```
+
 `connect_wallets` - `true` / `false` - if you want to connect wallets, add the addresses of TON wallets to wallets.txt . The number of wallets must match the number of accounts. 
 
 Example of an address - `UQAIsAepLajIsWU58DxPTM7D_GQG01MSk63qJckHQ9WBj2QC`
@@ -57,18 +60,23 @@ Example of an address - `UQAIsAepLajIsWU58DxPTM7D_GQG01MSk63qJckHQ9WBj2QC`
 
 ## About Proxy
 
+
 You can add your proxy list in `proxies.txt` and proxy format is like example below :
 
 Format :
+
 ```
 http://host:port
 http://user:pass@host:port
 ```
+
 Example :
+
 ```
 http://127.0.0.1:6969
 http://user:pass@127.0.0.1:6969
 ```
+
 ## How to get tgWebAppData (query_id / user_id)
 
 1. Login telegram via portable or web version
