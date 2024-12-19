@@ -1,7 +1,7 @@
 # Paws-bot
 
-[![Join our Telegram](https://t.me/BlackScorpionMrx)
-[![GitHub](https://github.com/Blackscorpionmrx)
+Join our Telegram https://t.me/BlackScorpionMrx
+GitHub https://github.com/Blackscorpionmrx
 
 ## Registrations [https://t.me/PAWSOG_bot/](https://t.me/PAWSOG_bot/PAWS?startapp=NoqQgWK0)
 
