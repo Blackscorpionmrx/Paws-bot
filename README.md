@@ -21,7 +21,7 @@
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/HACKERWORLDBD/PawsCum.git
+   git clone https://github.com/Blackscorpionmrx
    cd PawsCum
    
 Create and activate a virtual environment:
